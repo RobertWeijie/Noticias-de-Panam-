@@ -11,5 +11,5 @@ Esta extensión no recopila, almacena ni comparte datos personales de los usuari
 La extensión accede únicamente a contenido público disponible a través de las fuentes RSS mencionadas. No se realiza ningún seguimiento de la actividad del usuario ni se recopilan datos técnicos, financieros o de cualquier otro tipo.
 
 ### Contacto
-Si tiene preguntas sobre esta política de privacidad, puede contactarnos en: [correo@ejemplo.com].
+Si tiene preguntas sobre esta política de privacidad, puede contactarnos en: [2737343120@qq.com].
 
